@@ -1,5 +1,10 @@
 {
-    "name": "lazada",
-    "description": "lazada",
-    }
+	"name": "lazada",
+	"env": {
+		
+		"AUTH": {
+			"description": "Optional HTTP authentication in the form user:password",
+			"required": false
+		}
+	}
 }
