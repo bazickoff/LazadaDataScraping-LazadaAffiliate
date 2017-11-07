@@ -1,2 +1,1 @@
-Data Scraper from Lazada website to make Lazada Affiliate
-Created by Node.JS + Express.JS & Handlebars.JS
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
